@@ -1,0 +1,13 @@
+C:\Users\Try-H\source\repos\hra\hra\bin\Debug\netcoreapp3.1\hra.exe
+C:\Users\Try-H\source\repos\hra\hra\bin\Debug\netcoreapp3.1\hra.deps.json
+C:\Users\Try-H\source\repos\hra\hra\bin\Debug\netcoreapp3.1\hra.runtimeconfig.json
+C:\Users\Try-H\source\repos\hra\hra\bin\Debug\netcoreapp3.1\hra.runtimeconfig.dev.json
+C:\Users\Try-H\source\repos\hra\hra\bin\Debug\netcoreapp3.1\hra.dll
+C:\Users\Try-H\source\repos\hra\hra\bin\Debug\netcoreapp3.1\hra.pdb
+C:\Users\Try-H\source\repos\hra\hra\obj\Debug\netcoreapp3.1\hra.csprojAssemblyReference.cache
+C:\Users\Try-H\source\repos\hra\hra\obj\Debug\netcoreapp3.1\hra.AssemblyInfoInputs.cache
+C:\Users\Try-H\source\repos\hra\hra\obj\Debug\netcoreapp3.1\hra.AssemblyInfo.cs
+C:\Users\Try-H\source\repos\hra\hra\obj\Debug\netcoreapp3.1\hra.csproj.CoreCompileInputs.cache
+C:\Users\Try-H\source\repos\hra\hra\obj\Debug\netcoreapp3.1\hra.dll
+C:\Users\Try-H\source\repos\hra\hra\obj\Debug\netcoreapp3.1\hra.pdb
+C:\Users\Try-H\source\repos\hra\hra\obj\Debug\netcoreapp3.1\hra.genruntimeconfig.cache
